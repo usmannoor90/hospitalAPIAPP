@@ -1,0 +1,12 @@
+.git
+.github
+.vscode
+**/*.user
+**/*.suo
+**/obj/
+**/bin/
+**/*.log
+**/node_modules
+README.md
+Dockerfile
+*.yml

@@ -13,7 +13,6 @@ namespace hospitalAPI.Controllers
     public class NursesController : ControllerBase
     {
         private readonly EFDateContext _context;
-
         public NursesController(EFDateContext context)
         {
             _context = context;
